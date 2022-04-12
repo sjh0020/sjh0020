@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi 👋
 
+You are the ![Visitor Count](https://profile-counter.glitch.me/sjh0020/count.svg) vistors
 <!--
 **sjh0020/sjh0020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
